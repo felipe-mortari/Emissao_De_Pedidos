@@ -14,7 +14,7 @@
 }
 /* Estilo para o formulário */
 form {
-    width: 100%;
+    max-width: 800px;
      /* Define a largura máxima do formulário */
     margin: 0 auto; /* Centraliza o formulário na página */
     padding: 30px; /* Espaçamento interno */
